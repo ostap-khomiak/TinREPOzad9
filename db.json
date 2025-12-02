@@ -8,7 +8,12 @@
     {
       "id": 2,
       "country": "Włochy",
-      "title": "Rzym — city break"
+      "title": "Rzym wycieczka"
+    },
+    {
+      "id": 3,
+      "country": "Niemcy",
+      "title": "Berlin spacer po muzeum"
     }
   ]
 }
