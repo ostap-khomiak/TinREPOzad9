@@ -1,0 +1,14 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "country": "Hiszpania",
+      "title": "Wakacje w Maladze"
+    },
+    {
+      "id": 2,
+      "country": "Włochy",
+      "title": "Rzym — city break"
+    }
+  ]
+}
